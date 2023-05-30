@@ -1,4 +1,5 @@
 # Reto: cálculo y graficación de campos magnéticos no uniformes --> Frenado Magnético
+https://www.notion.so/M-dulo-3-14712fcb5f3e4218933b024a9a2d64f3
 
 ## **Objetivo**
 Desarrollar una **simulación computacional en MATLAB** para **calcular y graficar campos magnéticos no uniformes** (el uso de campos magnéticos no uniformes como en los parques de diversiones para la **desaceleración** de los juegos por **frenado magnético**).
